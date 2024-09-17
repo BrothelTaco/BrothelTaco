@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrothelTaco
-- 👀 I’m interested in learning how to create applications in JavaFX.
+- 👀 I’m interested in learning how to create applications in Python and JavaFX.
 - 🌱 I’m currently learning the basics.
 - 💞️ I’m looking to collaborate on my project! I would love to get advice on how to continue my programming journey.
 - 📫 How to reach me. sparkcraftersoftware@gmail.com
