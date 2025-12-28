@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrothelTaco
-- 👀 I’m creating applications in Python and Next/React.
+- 👀 I’m creating applications to automate electrical engineering design + other side quests.
 - 📫 How to reach me. jkinsman180@gmail.com
 
 <!---
